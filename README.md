@@ -1,6 +1,8 @@
 Overview: 
 This project is designed to create a comprehensive database system for a car dealership. It includes SQL scripts for database creation, various operations, and an Entity-Relationship (ER) diagram for visual representation of the database structure. The system manages customer information, employee details, vehicle inventory, sales transactions, and more.
 
+
+
 Tables: 
 
 customer: Stores information about the dealership's customers.
@@ -22,6 +24,8 @@ type: Describes the types of vehicles (e.g., sedan, SUV).
 citystate: Stores the city and state information linked by ZIP code.
 
 cylinders: Lists the types of engine cylinders used in vehicles.
+
+
 
 Views: 
 
