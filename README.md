@@ -45,12 +45,12 @@ Steps to Setup the Database:
 1. Install MySQL Server and MySQL Workbench: Ensure MySQL is installed and running on your system. Install MySQL Workbench for managing the database visually.
 
 2. Load the ER Diagram:
-   Open dealershipDiagram.mwb in MySQL Workbench.
+   Open "dealershipDiagram.mwb" in MySQL Workbench.
    Review the diagram to understand the database structure.
 
 3. Create the Database:
-   Execute the SQL script dealershipCode.sql in MySQL Workbench or via command            line to create and populate the necessary tables.
+   Execute the SQL script "dealershipCode.sql" in MySQL Workbench or via command line to create and populate the necessary tables.
 
-4. Additional SQL Operations:
-   Run dealearshipScript.sql for additional database operations and modifications.
+5. Additional SQL Operations:
+   Run "dealearshipScript.sql" for additional database operations and modifications.
 
